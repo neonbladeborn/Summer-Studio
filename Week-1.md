@@ -17,7 +17,7 @@ During the week we worked on the OWASP juice shop task. I was able to complete s
 # 4.Demonstrate effective collaboration and communication skills: #
 On Monday when we were assigned groups me and the group I was a part of created a new team on  Microsoft teams where we could collaborate and communicate with each other. On this page we would ask/answer questions and provide feedback for this week’s presentation. Additionally during the week we began work on creating a static website, I was able to get my initial website up and running fairly early on using Github pages and as other people were experiencing issues with setting up their static website I directed them to Github pages and helped them with setting it up. Additionally once I setup my static website I had issues with getting pages to link and display by just pressing text on one of the pages. While helping another student and talking out loud about the process of setting up Github pages I was able to reflect and realize the reason my implementation of linking pages wasn’t working was due to the markdown syntax I was using and my failure to specify the file type as “.md”. After Rob’s presentation on Wednesday I approached him and asked him questions regarding working in the industry and certifications that might be suitable for me, I learned a lot from this and it was able to guide my focus on Friday when we were talking about certifications and career options. Finally on Friday we had our first initial scrum where we were able to reflect and compare to see how we were progressing. During this scrum another student mentioned they were feeling intimidated by certain aspects of the subject/class. Being able to relate to the feeling of being intimidated by the complex field of cyber security I took the opportunity to introduce myself to them at the end of the scrum and told them my name so that if they had any questions or needed help they could message me on teams. I hope that as the weeks go on I can do at least my small part to help other members of my group and others in the class to feel more comfortable, confident and knowledgeable with the field.
 
-[Artifact - Teams Discussion](https://www.google.com)
+[Artifact - Teams Discussion](https://imgur.com/a/TBkenY9)
 
 
 <h1> 5.Conduct critical self, peer, and group review and performance evaluation: </h1>
@@ -34,6 +34,6 @@ The group I was a part of contained people with different areas of interest in p
 
 Overall apart from the issues regarding timing I feel we went fairly well with regards to the topic we chose, our communication as a team and our presentation ability.
 
-[Artifact - Teams Planner](https://www.google.com)
-[Artifact - Presentation Slides](https://www.google.com)
+[Artifact - Teams Planner](https://imgur.com/a/Uz78ZRn)
+[Artifact - Presentation Slides](https://imgur.com/a/MduucTO)
 
