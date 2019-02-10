@@ -21,7 +21,6 @@ On Monday when we were assigned groups me and the group I was a part of created 
 
 
 <h1> 5.Conduct critical self, peer, and group review and performance evaluation: </h1>
-======
 I feel like overall this week I was able to perform at a fairly high quality and I hope that my reflection is of similarly high quality. I am unsure regarding the exact formatting of the reflection and I had made a prior attempt at a reflection that I felt was not adequately addressing the SLO’s and using the knowledge from that I attempted to create this new, improved reflection. 
 
 [Artifact - Draft Reflection ](https://www.google.com)
@@ -31,7 +30,6 @@ I feel like overall this week I was able to perform at a fairly high quality and
  
  
 <h1> Group Reflection: </h1>
-======
 The group I was a part of contained people with different areas of interest in penetration testing and different levels of experience and knowledge. We had to take this into account while we were deciding on the topic for and later making the slides for our Wednesday presentation. With this in mind we decided to look at the OWASP top 10 as we felt this was a broad topic that was highly relevant to the studio and also provided a great learning opportunity to myself and others that either didn’t have much knowledge or wanted to improve their knowledge of web based penetration testing and penetration testing as a whole. We began by allocating the list to each of the 5 members of the team. Each person was given two items from the top 10 and because of the varied nature of the list we decided to assign them based on how confident each member of the group was with cyber security and in particular web based security with those who have more experience taking the harder topics and those with less experience taking some of the easier ones. We were able to have the slides finished by Tuesday night and come Wednesday we finalized the introduction and the conclusion. Originally we had planned to write as much detail as we could for Tuesday and then on Wednesday spend some time cutting it down, this however didn’t happen. 
 
 Overall apart from the issues regarding timing I feel we went fairly well with regards to the topic we chose, our communication as a team and our presentation ability.
