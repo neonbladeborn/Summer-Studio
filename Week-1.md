@@ -23,7 +23,7 @@ On Monday when we were assigned groups me and the group I was a part of created 
 <h1> 5.Conduct critical self, peer, and group review and performance evaluation: </h1>
 I feel like overall this week I was able to perform at a fairly high quality and I hope that my reflection is of similarly high quality. I am unsure regarding the exact formatting of the reflection and I had made a prior attempt at a reflection that I felt was not adequately addressing the SLO’s and using the knowledge from that I attempted to create this new, improved reflection. 
 
-[Artifact - Draft Reflection ](https://www.google.com)
+[Artifact - Draft Reflection ](./week-1-Draft.md)
  
  
  
