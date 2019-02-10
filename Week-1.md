@@ -34,6 +34,6 @@ The group I was a part of contained people with different areas of interest in p
 
 Overall apart from the issues regarding timing I feel we went fairly well with regards to the topic we chose, our communication as a team and our presentation ability.
 
-[Artifact - Teams Planner](https://imgur.com/a/Uz78ZRn)
+[Artifact - Teams Planner](./Teams - Planner.PNG)
 [Artifact - Presentation Slides](https://imgur.com/a/MduucTO)
 
