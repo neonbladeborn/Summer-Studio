@@ -18,7 +18,7 @@ DOM XSS targets the DOM running on the web app
 I started by trying to break into the google-gruyere vulnerable web app (google-gruyere.appspot.com) using XSS.
 The first page I saw after opening it was as followed:
 
-(Evidence - main menu)[./1]
+[Evidence - main menu](./1)
  
 Initially I wanted to find a search field so I could see if the URL was displaying the query as I know that is an attack vector for reflected xss. After browsing through the various pages I wasn’t able to find any search field (even when logged in). I did however notice that the URL was changing for each page and especially when I pressed on all snippets for either of the users the url would change to include the user
 https://google-gruyere.appspot.com/555454490663195157123352352042061832226/snippets.gtl?uid=brie
