@@ -3,7 +3,7 @@ On Monday we began by looking at various different types of web based vulnerabil
 
 You can find what I wrote regarding bug bounties and responsible disclosure policies here:
 
-<LINK TO RESPONSIBLE SHIT>
+[Evidence - Bug bounties and responsible disclosure](./Week-2-Bug-Bounties.md)
 
 # Tuesday:
 On Tuesday I attempted to break into a machine on hack the box, I did this because from the beginning I had outlined that one of my goals was to be able to break into machines from hack the box so I wanted to try and get a better understanding of the steps involved. I decided to attempt the ypuffy retired machine as (due to it being a retired machine) documentation and guides were published that I can follow to learn about how to break the machine and of the two retired machines that were accessible to me as a free user ypuffy was rated as being lower in difficulty. 
