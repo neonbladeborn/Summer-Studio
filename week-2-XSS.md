@@ -76,11 +76,8 @@ The next page I tried was that belonging to the European council on this page wh
 I tried a number of things to circumvent this that didn’t work including:
 
 * <ScRIpT>alert(‘xss’)</ScRIpT> = Same blocked page
-  
 * <BODY ONLOAD=alert('XSS')> = Infinite Captcha loop
-  
 * <> = Processed the search
-  
 * <test> = Generic error page
 
 As can be seen it seems that the implementation of XSS security is to use filters designed to catch the most noticeable marks of XSS attacks (eg <script>, </script>, etc). However it does then depend on the organization to decide what happens when something is detected that fails to pass those filters. Either the website process can escape the XSS and process the request like a normal search like how the European parliaments does it or it can be completely blocked similar to how the European council does this. The benefit of outright blocking it is that it gives the attacker warning that they have been noticed and it can encourage them to stop where as processing the request can prevent normal requests from being blocked because of a strict filter.
