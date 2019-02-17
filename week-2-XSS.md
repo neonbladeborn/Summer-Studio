@@ -79,9 +79,7 @@ I tried a number of things to circumvent this that didn’t work including:
   
 * <BODY ONLOAD=alert('XSS')> = Infinite Captcha loop
   
-  
 * <> = Processed the search
-  
   
 * <test> = Generic error page
 
