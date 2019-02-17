@@ -29,13 +29,17 @@ Based on my experience with the prior machine I knew that these machines are des
 
 I opened the webpage that the server was running and I saw a message saying that the irc will be running soon as well as an image labeled IRKED. When I opened up the image the URL didn’t indicate the image was stored in any sort of folder so I decided to run Dir buster which attempts to find any folders simply by brute forcing the possible foldernames based on a word list of the most common folder names. Dir buster informed me there were folders and pages such as manual and others that are consistent with an apache server. Unfortunately it didn’t indicate anything else useful.
 
+[Evidence - Web page](./webpage.png)
+
 I then decided to focus my attention on the port running RPC BIND. I began by searching for any references to RPC BIND on exploit-db.com and only found exploits designed to perform denial of service attacks which aren’t suitable as hack the box requires proof of user or root access.
 
- 
+[Evidence - Exploitdb results](./exploitdb.png)
 
 I then searched for RPC CTF on duckduckgo and RPC exploits on youtube which provided some results that began by running the rpc info command in order to get more information about what processes were running  and then exploiting a misconfigured NFS server. Unfortunately however when I ran RPC info I didn’t see any indication of an NFS server being run and my research about other attack vectors using RPC and RPC BIND didn’t allow me to progress any further.
 
 Finally I decided to try and see if there could have been some clues hidden within the image file that was hosted on the web server. I ran the file command against the image and was able to confirm it was an image file. I then looked at CTF-Katana hosted by John Hammond (https://github.com/JohnHammond/ctf-katana) to see what kind of steganography tools I could use however none of the tools were successfully able to run on my computer.
+
+[Evidence - File command](./filecommand.png)
 
 # Friday:
 On Friday we had another free for all rather than a scrum and I likewise found this to be quite useful as I was able to find out what method other students were using to practice and study web pen testing and the difficulties they were having. One of the people in my group for the free for all was talking about how they were working through over the wire’s natas challenges and the issues they’ve been having as they went through the website and I was able to compare their thought process about how they look for the flag with my own and it provided me with some more options or directions for when I next attempt to break into a web site. 
@@ -46,4 +50,6 @@ The most notable thing on the Friday was the presentation, I found some difficul
 
 [Evidenece - Bad slide](./badslide.png)
 
-Additionally on Friday I was unable to attempt IRKED again as when I attempted nmap scans they showed up as unsuccessful despite the webpage opening up again. This issue happened both on the universities network and when connected to a mobile hotspot. The issue was also present after I created a new connection pack. I was using a free connection as was another student with the same issue however when this was attempted on a VIP server by another person in the class they were able to run nmap scans without issue which lead me to believe it was simply an issue with server availability. 
+Additionally on Friday I was unable to attempt IRKED again as when I attempted nmap scans they showed up as unsuccessful despite the webpage opening up again. This issue happened both on the universities network and when connected to a mobile hotspot. The issue was also present after I created a new connection pack. I was using a free connection as was another student with the same issue however when this was attempted on a VIP server by another person in the class they were able to run nmap scans without issue which lead me to believe it was simply an issue with server availability. This issue continued into the weekend which presented me with more difficulty as my plan was to collect the evidence and artifacts for this reflection on the weekend and I am unable to do so. Due to this issue I will remember in future to collect evidence and artifacts as they are available both to avoid issues with accessibility and to make sure I remember each step I take and the work I do. I feel this is something that I should have done from the beginning as it would have saved me time in retracing my steps and remembering everything I did but also because it is a reflection of what I would be doing in my career when writing report or when submitting bug bounties. 
+
+[Evidence - Failed nmap scan](./nmaprip.png)
