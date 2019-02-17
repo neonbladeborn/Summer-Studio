@@ -1,4 +1,6 @@
-In what way does the security implementations designed to prevent XSS attacks vary, what methods are used by attackers to circumvent improper security measures on websites and to what extent can XSS attacks affect users?
+# XSS vulnerability in google-gruyere web app 
+
+## Problem statement: XSS vulnerabilities have far reaching impact and the implementation of a solution to prevent it must be carefully considered
 
 During the class we learnt about the 3 different kinds of XSS:
 Reflected
