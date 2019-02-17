@@ -18,7 +18,7 @@ Additionally we were assigned the task of breaking into a vulnerable web app and
 You can find my detailed write up about my steps in finding and exploiting the vulnerability, the impact it has on various stakeholders as well as my testing of how EU institutions protect themselves from XSS attacks here. 
 (Testing was done in line with EU CERT Responsible Disclosure Policy)
 
-<LINK TO THE DOCUMENT>
+[Evidenence - Web app XSS vulnerability](./week-2-XSS.md)
 
 As I went through I found the inclusion of the specific code examples to be very useful as it further allowed me to understand how the issue was able to happen as well as learning the technical details for how to resolve it which would be very useful in my professional career when I need to provide reports that not only outline the issue but also providing some recommendations to solve it. 
 
