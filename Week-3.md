@@ -16,5 +16,5 @@ Earlier in the week we were given the amazing opportunity to test a real life we
 # Friday:
 On Friday we had another free for all which I found very insightful and informative; I was able to compare myself to the progress of other students to find if I’m making good progress or if I need to put in more time and I also was able to see how they were practicing and developing their skills which gave me some more direction regarding where to go to continue learning. I had the opportunity to discuss my progress in the studio with the tutors and I received some very valuable feedback concerning my presentation and the depth of detail used. We also had Jai and Jason share how they were able to break into the Deloitte piper vulnerable box. I found learning how they broke into the box interesting as it seemed that Jason and Jai had found two slightly different methods and I also learnt that things such as python 1 liners exist and some of the methods for privilege escalation. 
 
-[Evidence - Notes taken during free for all](./w31.png)
+[Evidence - Notes taken during free for all](./w31.PNG)
 
