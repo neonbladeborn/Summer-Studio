@@ -42,3 +42,10 @@ Throughout the studio I have consistently made sure to evaluate my performance t
 
 [Week-2, Exploiting XSS on a webapp and exploring security implementations used by EU institutions](./week-2-XSS.md)
 
+[Week-3, Presentation on the aircrack suite of tools](./w32.png)
+
+[Week-3, Successfully breaking into my first box on HTB!!!](./con-HTBsolve.PNG)
+
+[Week-4, Finding the flag hidden in one of the reversing challanges](./NAME)
+
+[Week-4, The final presentation for the expo on Friday](./W4-Friday.PNG)
