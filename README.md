@@ -33,3 +33,12 @@ Every week during the studio there was heavy collaboration and communication req
 Throughout the studio I have consistently made sure to evaluate my performance to gauge my progress completing my intended goals. Additionally for every deliverable I review my work against my standards before I feel comfortable submitting or presenting it. After each deliverable I attempt to get any feedback possible from both the tutors and my peers. For example after my presentation on the vulnerabilities I found on the web app I received verbal feedback that some of my slides were too brief to be effective (ie, the slide didn’t say anyhttps://utscyber.studio/learn/Week 4 - Feb 25/thing meaningful and required me to expand upon the points to give meaning to it). I acknowledged this and made sure that in my next presentation (about aircrack) I had slides that were more appropriate and I asked for feedback from my peers to confirm that the slide made sense. 
 
 ### Reflectively curated, relevant artifacts:
+
+[Week-1, Planning for presentation on the OWASP top 10](./Con-Planning.PNG)
+
+[Week-1, Presentation on the OWASP top 10](./Presentation-Slides.PNG)
+
+[Week-2, Presentation by Deloitte on what is pen testing](./Con-Stake-1.jpg)
+
+[Week-2, Exploiting XSS on a webapp and exploring security implementations used by EU institutions](./week-2-XSS.md)
+
