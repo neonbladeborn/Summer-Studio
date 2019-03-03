@@ -46,6 +46,6 @@ Throughout the studio I have consistently made sure to evaluate my performance t
 
 [Week-3, Successfully breaking into my first box on HTB!!!](./con-HTBsolve.PNG)
 
-[Week-4, Finding the flag hidden in one of the reversing challanges](./NAME)
+[Week-4, Finding the flag hidden in one of the reversing challanges](./w4-reverse.png)
 
 [Week-4, The final presentation for the expo on Friday](./W4-Friday.PNG)
