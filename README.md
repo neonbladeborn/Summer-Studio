@@ -1,5 +1,8 @@
 # 127.0.0.1
 
+Current Projects:
+[Remote Shocking](./Pavlok.md)
+
 This is the home page for my portfolio. Here you can find my weekly reflection detailing my progress week by week through the summer studio as well as a conclusion/Summary that details the main points.
 
 ## Weekly Reflections
